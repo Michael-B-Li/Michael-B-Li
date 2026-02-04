@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Michael 👋
+
+I am 2nd Year CS Student at University of Bristol.
+
 
 <!--
 **Michael-B-Li/Michael-B-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
