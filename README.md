@@ -17,7 +17,7 @@ I am 2nd Year CS Student at University of Bristol.
 - Theoretical CS
 - HPC
 
-I have just started learning Rust.
+I have just started learning Rust 🦀
 <!--
 **Michael-B-Li/Michael-B-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
