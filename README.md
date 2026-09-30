@@ -1,6 +1,7 @@
 ## Hi, I'm Michael 👋
 
-I am 2nd Year CS Student at University of Bristol.
+I am 3rd (Penultimate) Year CS Student at the University of Bristol who is currently looking for software engineering internship opportunities.
+I enjoy building full-stack systems and performance focused applications.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -11,13 +12,8 @@ I am 2nd Year CS Student at University of Bristol.
 ### Recent Projects
 - Currently building MediaBank, a full-stack media asset management platform for a film studio using React, Electron, FastAPI, and PostgreSQL, featuring automated tagging, upload workflows, and hardware-accelerated video processing.  
 - See my latest Hackathon project [here](https://github.com/KyrianSalas/NavSat) where we made a platform that allows users to interact with orbital satellites in real time.
-### Interests
 
-- Graphics Programming
-- Theoretical CS
-- HPC
-
-I have just started learning Rust 🦀
+I'm particularly interested in opportunities where I can work on challenging engineering problems, contribute to real products, and learn from experienced teams.
 <!--
 **Michael-B-Li/Michael-B-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
