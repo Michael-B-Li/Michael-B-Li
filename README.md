@@ -8,9 +8,10 @@ I enjoy building full-stack systems and performance focused applications.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+![Haskell](https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ### Recent Projects
-- Currently building MediaBank, a full-stack media asset management platform for a film studio using React, Electron, FastAPI, and PostgreSQL, featuring automated tagging, upload workflows, and hardware-accelerated video processing.  
+- Built MediaBank, a full-stack media asset management platform for a film studio using React, Electron, FastAPI, and PostgreSQL, featuring automated tagging, upload workflows, and hardware-accelerated video processing.  
 - See my latest Hackathon project [here](https://github.com/KyrianSalas/NavSat) where we made a platform that allows users to interact with orbital satellites in real time.
 
 I'm particularly interested in opportunities where I can work on challenging engineering problems, contribute to real products, and learn from experienced teams.
