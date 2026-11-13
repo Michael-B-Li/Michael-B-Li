@@ -1,6 +1,6 @@
 ## Hi, I'm Michael 👋
 
-I am 3rd (Penultimate) Year CS Student at the University of Bristol who is currently looking for software engineering internship opportunities.
+I am 3rd Year CS Student at the University of Bristol who is currently looking for software engineering internship opportunities.
 I enjoy building full-stack systems and performance focused applications.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
